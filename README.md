@@ -8,7 +8,9 @@
 
 需要浏览器安装 Tampermonkey 插件，若浏览器没有这个插件，即代表不支持
 
-在安装完 Tampermonkey 插件过后，点击插件菜单中的 `Create a new script`, 将项目文件夹下的 `user.js` 复制进去即可
+在安装完 Tampermonkey 插件过后，点击插件菜单中的 `Create a new script`, 将项目文件夹下的 `copy.user.js` 复制进去即可
+
+您也可以尝试点击![ 这里 ](https://github.com/woshiluo/syzoj-copy-button/raw/master/copy.user.js)直接安装
 
 默认只适配了 LibreOJ 的页面，若有其他使用 SYZOJ 的 OJ，将 `@match` 中的网址改为其网址**应当**就能使用（因为有些人可能魔改的比较厉害）
 
